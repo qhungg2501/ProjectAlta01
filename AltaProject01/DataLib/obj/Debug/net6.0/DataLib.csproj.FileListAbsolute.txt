@@ -1,0 +1,28 @@
+E:\NetCore tutorial\AltaProject01\DataLib\bin\Debug\net6.0\DataLib.deps.json
+E:\NetCore tutorial\AltaProject01\DataLib\bin\Debug\net6.0\DataLib.runtimeconfig.json
+E:\NetCore tutorial\AltaProject01\DataLib\bin\Debug\net6.0\DataLib.dll
+E:\NetCore tutorial\AltaProject01\DataLib\bin\Debug\net6.0\DataLib.pdb
+E:\NetCore tutorial\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.csproj.AssemblyReference.cache
+E:\NetCore tutorial\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\NetCore tutorial\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.AssemblyInfoInputs.cache
+E:\NetCore tutorial\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.AssemblyInfo.cs
+E:\NetCore tutorial\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.csproj.CoreCompileInputs.cache
+E:\NetCore tutorial\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.dll
+E:\NetCore tutorial\AltaProject01\DataLib\obj\Debug\net6.0\refint\DataLib.dll
+E:\NetCore tutorial\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.pdb
+E:\NetCore tutorial\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.genruntimeconfig.cache
+E:\NetCore tutorial\AltaProject01\DataLib\obj\Debug\net6.0\ref\DataLib.dll
+D:\AltaProject01-main\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.csproj.AssemblyReference.cache
+D:\AltaProject01-main\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\AltaProject01-main\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.AssemblyInfoInputs.cache
+D:\AltaProject01-main\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.AssemblyInfo.cs
+D:\AltaProject01-main\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.csproj.CoreCompileInputs.cache
+D:\AltaProject01-main\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.dll
+D:\AltaProject01-main\AltaProject01\DataLib\obj\Debug\net6.0\refint\DataLib.dll
+D:\AltaProject01-main\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.pdb
+D:\AltaProject01-main\AltaProject01\DataLib\bin\Debug\net6.0\DataLib.deps.json
+D:\AltaProject01-main\AltaProject01\DataLib\bin\Debug\net6.0\DataLib.runtimeconfig.json
+D:\AltaProject01-main\AltaProject01\DataLib\bin\Debug\net6.0\DataLib.dll
+D:\AltaProject01-main\AltaProject01\DataLib\bin\Debug\net6.0\DataLib.pdb
+D:\AltaProject01-main\AltaProject01\DataLib\obj\Debug\net6.0\DataLib.genruntimeconfig.cache
+D:\AltaProject01-main\AltaProject01\DataLib\obj\Debug\net6.0\ref\DataLib.dll

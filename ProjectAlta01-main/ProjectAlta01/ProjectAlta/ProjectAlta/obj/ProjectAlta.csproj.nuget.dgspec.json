@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProjectAlta01-main\\ProjectAlta01\\ProjectAlta\\ProjectAlta\\ProjectAlta.csproj": {}
+    "C:\\Users\\DELL\\Documents\\GitHub\\ProjectAlta01\\ProjectAlta01-main\\ProjectAlta01\\ProjectAlta\\ProjectAlta\\ProjectAlta.csproj": {}
   },
   "projects": {
-    "D:\\ProjectAlta01-main\\ProjectAlta01\\ProjectAlta\\ProjectAlta\\ProjectAlta.csproj": {
+    "C:\\Users\\DELL\\Documents\\GitHub\\ProjectAlta01\\ProjectAlta01-main\\ProjectAlta01\\ProjectAlta\\ProjectAlta\\ProjectAlta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProjectAlta01-main\\ProjectAlta01\\ProjectAlta\\ProjectAlta\\ProjectAlta.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Documents\\GitHub\\ProjectAlta01\\ProjectAlta01-main\\ProjectAlta01\\ProjectAlta\\ProjectAlta\\ProjectAlta.csproj",
         "projectName": "ProjectAlta",
-        "projectPath": "D:\\ProjectAlta01-main\\ProjectAlta01\\ProjectAlta\\ProjectAlta\\ProjectAlta.csproj",
+        "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\ProjectAlta01\\ProjectAlta01-main\\ProjectAlta01\\ProjectAlta\\ProjectAlta\\ProjectAlta.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\ProjectAlta01-main\\ProjectAlta01\\ProjectAlta\\ProjectAlta\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Documents\\GitHub\\ProjectAlta01\\ProjectAlta01-main\\ProjectAlta01\\ProjectAlta\\ProjectAlta\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

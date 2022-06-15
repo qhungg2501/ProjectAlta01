@@ -2,6 +2,7 @@ using ProjectAlta;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using ProjectAlta.Data;
+using ProjectAlta.Respository;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<ProjectAltaContext>(options =>
@@ -14,6 +15,10 @@ builder.Services.ServicesCollection(builder.Configuration);
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddScoped<IEAdminRespository,AdminRespository>();
+builder.Services.AddScoped<IECourseRespository, CourseRespository>();
+
 
 var app = builder.Build();
 

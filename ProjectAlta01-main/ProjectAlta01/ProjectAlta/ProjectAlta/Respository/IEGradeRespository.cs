@@ -6,17 +6,17 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ProjectAlta.Data;
-using ProjectAlta.DTO;
 using ProjectAlta.Entity;
+using ProjectAlta.DTO;
 namespace ProjectAlta.Respository
 {
-    public interface IEAdminRespository
+    public interface IEGradeRespository
     {
-        List<AdminDTO> GetAll();
-        AdminDTO GetById(string teacherId);
-        bool Insert(AdminDTO admin);
-        bool Update(AdminDTO admin);
-        bool Delete(string teacherId);
+        List<GradeDTO> GetAll();
+        GradeDTO GetById(int gradeId);
+        bool Insert(GradeDTO grade);
+        bool Update(GradeDTO grade);
+        bool Delete(int gradeId);
         void Save();
     }
 }

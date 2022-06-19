@@ -7,15 +7,16 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ProjectAlta.Data;
 using ProjectAlta.Entity;
+using ProjectAlta.DTO;
 namespace ProjectAlta.Respository
 {
     public interface IEDocumentRespository
     {
-        List<Document> GetAll();
-        Document GetById(int docId);
-        void Insert(Document document);
-        void Update(Document document);
-        void Delete(int docId);
+        List<DocumentDTO> GetAll();
+        DocumentDTO GetById(int docId);
+        bool Insert(DocumentDTO document);
+        bool Update(DocumentDTO document);
+        bool Delete(int docId);
         void Save();
     }
 }

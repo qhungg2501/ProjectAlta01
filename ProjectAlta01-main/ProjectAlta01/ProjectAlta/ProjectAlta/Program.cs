@@ -18,6 +18,11 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddScoped<IEAdminRespository,AdminRespository>();
 builder.Services.AddScoped<IECourseRespository, CourseRespository>();
+builder.Services.AddScoped<IEDocumentRespository, DocumentRespository>();
+builder.Services.AddScoped<IEAdminAccRespository, AdminAccountRespository>();
+builder.Services.AddScoped<IEClassRespository, ClassRespository>();
+builder.Services.AddScoped<IEGradeRespository, GradeRespository>();
+builder.Services.AddScoped<IEClassCourseRespository, ClassCourseRespository>();
 
 
 var app = builder.Build();

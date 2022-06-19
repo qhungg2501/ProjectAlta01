@@ -53,7 +53,7 @@ namespace ProjectAlta.Respository
 
         public bool Insert(GradeDTO grade)
         {
-            var insertGra = con.Documents.Find(grade.gradeId);
+            var insertGra = con.Grades.Find(grade.gradeId);
             if (insertGra == null)
             {
                 con.Grades.Add(grademap.Map<Grade>(grade));

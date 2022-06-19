@@ -23,6 +23,7 @@ builder.Services.AddScoped<IEAdminAccRespository, AdminAccountRespository>();
 builder.Services.AddScoped<IEClassRespository, ClassRespository>();
 builder.Services.AddScoped<IEGradeRespository, GradeRespository>();
 builder.Services.AddScoped<IEClassCourseRespository, ClassCourseRespository>();
+builder.Services.AddScoped<IEPositionRespository, PositionRespository>();
 
 
 var app = builder.Build();

@@ -22,6 +22,8 @@ namespace ProjectAlta.Mapper
             this.CreateMap<Grade, GradeDTO>();
             this.CreateMap<Class_CourseDTO, Class_Course>();
             this.CreateMap<Class_Course, Class_CourseDTO>();
+            this.CreateMap<PositionDTO, Position>();
+            this.CreateMap<Position, PositionDTO>();
         }
             
     }
